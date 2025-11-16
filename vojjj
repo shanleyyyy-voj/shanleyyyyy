@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>hi</title>
+<style>
+    body {
+        background: #ffe6f2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+    .box {
+        background: white;
+        padding: 40px 50px;
+        border-radius: 20px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        text-align: center;
+    }
+    h1 {
+        color: #ff5fa2;
+        font-size: 40px;
+        margin: 0;
+    }
+</style>
+</head>
+<body>
+<div class="box">
+    <h1>ganda mo jov 💗</h1>
+</div>
+</body>
+</html>
